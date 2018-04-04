@@ -13,3 +13,6 @@ Predicting
 It uses test-20.csv file mentioned above.
 
 $ python3 predict.py
+
+Datasets available in following link
+https://www.kaggle.com/c/quora-question-pairs/data
