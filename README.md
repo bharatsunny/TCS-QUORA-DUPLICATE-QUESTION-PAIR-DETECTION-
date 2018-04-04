@@ -6,6 +6,7 @@ The code is simple and ready to use.
 How to Run
 
 Training
+
 $ python3 train.py
 
 Predicting
